@@ -1,0 +1,12 @@
+2. Balans in Gameplay
+Er zijn veel enemy types, maar de beschrijving van hun gedrag mist diepgang.
+Werk unieke aanvalspatronen en zwakke plekken van bosses verder uit om tactiek en uitdaging te bevorderen.
+ 
+ 
+5. AI-gedrag en Moeilijkheidsgraad
+Enemy AI wordt vrij eenvoudig omschreven.
+Introduceer geavanceerdere AI-elementen zoals enemies die samenwerken, de speler flankeren of traps activeren.
+ 
+Overige Suggesties
+Narratief: Meer lore-elementen per dungeon of enemy type geven, zodat spelers zich meer verbonden voelen met de wereld.
+Audio: Voeg een paragraaf toe over muziek- en geluidseffecten, essentieel voor sfeer en immersie.
