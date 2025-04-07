@@ -1,0 +1,8 @@
+Default Rooms: 4
+Mining Rooms: 0
+Treasure Rooms: 0
+Trap Rooms: 0
+Boss Rooms: 0
+Puzzle Rooms: 0
+Npc/Merchant Rooms: 0
+Mini Boss Room: 0

@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5df389b1b6fa08649bb49460f7988e16, type: 3}
+  m_Name: PlayerData
+  m_EditorClassIdentifier: 
+  damage: 10
+  strength: 10
+  critDamage: 25
+  critChance: 20
+  attackSpeed: 0
+  health: 100
+  healthRegeneration: 0
+  defense: 0
+  speed: 100
+  luck: 0
+  mana: 100
+  manaRegeneration: 5
+  magicDamage: 0
+  dungeonExpBoost: 0
+  goldFortune: 0
+  gemFortune: 0
+  essenceFortune: 0
+  miningFortune: 0
+  gemstoneFortune: 0
+  oreFortune: 0
+  miningSpeed: 100
+  undeadDamage: 0
+  undeadResistance: 0
+  golemDamage: 0
+  golemResistance: 0
+  draconicDamage: 0
+  draconicResistance: 0
+  demonicDamage: 0
+  demonicResistance: 0
+  angelicDamage: 0
+  angelicResistance: 0
+  giantDamage: 0
+  giantResistance: 0
+  fireDamage: 0
+  fireResistance: 0
+  waterDamage: 0
+  waterResistance: 0
+  lightningDamage: 0
+  lightningResistance: 0
+  poisonDamage: 0
+  poisonResistance: 0
+  iceDamage: 0
+  iceResistance: 0
+  darknessDamage: 0
+  darknessResistance: 0
+  lightDamage: 0
+  lightResistance: 0

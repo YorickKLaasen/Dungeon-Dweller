@@ -1,0 +1,18 @@
+Elke mapprefab deelbaar door 5 in hoogte en breedte
+
+Stemt doelen en planning af met opdrachtgever/leidinggevende/belanghebbenden en vraagt door totdat deze zaken duidelijk zijn.
+
+Maandag:
+Prefabs maken voor de Ores en dat ze breken.
+
+Dinsdag:
+Prefab ores afmaken als die nog niet af zijn
+
+Woensdag:
+Mining Room Prefabs maken. (1 per Ore voor nu)
+
+Donderdag: 
+Verder met Mining Room Prefabs Maken. (1 per Ore voor nu)
+
+Vrijdag:
+Beste manier om de dungeon te generaten researchen.

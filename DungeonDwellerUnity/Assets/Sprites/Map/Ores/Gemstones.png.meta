@@ -1,0 +1,976 @@
+fileFormatVersion: 2
+guid: dfe76095982398c479a9a1c0fc724413
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -719467805709753288
+    second: Gemstones (1)_0
+  - first:
+      213: 7682370952383891720
+    second: Gemstones (1)_1
+  - first:
+      213: 624922198883069546
+    second: Gemstones (1)_2
+  - first:
+      213: 1897225579897829590
+    second: Gemstones (1)_3
+  - first:
+      213: 7383165749136391401
+    second: Gemstones (1)_4
+  - first:
+      213: -1899878430246913959
+    second: Gemstones (1)_5
+  - first:
+      213: -2449325244512281774
+    second: Gemstones (1)_6
+  - first:
+      213: 5656261045091879366
+    second: Gemstones (1)_7
+  - first:
+      213: 3754272865650893329
+    second: Gemstones (1)_8
+  - first:
+      213: 4465322753936745535
+    second: Gemstones (1)_9
+  - first:
+      213: -6206889262426257224
+    second: Gemstones (1)_10
+  - first:
+      213: -6278574016063414385
+    second: Gemstones (1)_11
+  - first:
+      213: 5967303684519631418
+    second: Gemstones (1)_12
+  - first:
+      213: 2135906738033106484
+    second: Gemstones (1)_13
+  - first:
+      213: 3439379914370041380
+    second: Gemstones (1)_14
+  - first:
+      213: 7639087557138958724
+    second: Gemstones (1)_15
+  - first:
+      213: 4288337151075787091
+    second: Gemstones (1)_16
+  - first:
+      213: 5031917272485449451
+    second: Gemstones (1)_17
+  - first:
+      213: -8666164744261230783
+    second: Gemstones (1)_18
+  - first:
+      213: -8034261256384489498
+    second: Gemstones (1)_19
+  - first:
+      213: -8809776415938893466
+    second: Gemstones (1)_20
+  - first:
+      213: 2919845776064597141
+    second: Gemstones (1)_21
+  - first:
+      213: -6016867573266388185
+    second: Gemstones (1)_22
+  - first:
+      213: -8922617237940126025
+    second: Gemstones (1)_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gemstones_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 10.5, y: -18}
+        - {x: 19.5, y: -10}
+        - {x: 16.5, y: 11}
+        - {x: 0.5, y: 22}
+        - {x: -5.5, y: 18}
+        - {x: -14.5, y: 13}
+        - {x: -19.5, y: 12}
+        - {x: -18.5, y: -12}
+        - {x: -12.5, y: -18}
+        - {x: -0.5, y: -21}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee7dada8561c1345be29fbceba92e2d
+      internalID: -1901351387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstones_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 192
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 18.5, y: -12}
+        - {x: 19.5, y: -6}
+        - {x: 15.5, y: 3}
+        - {x: 3.5, y: 11}
+        - {x: -9.5, y: 4}
+        - {x: -14.5, y: -3}
+        - {x: -18.5, y: -12}
+        - {x: -12.5, y: -18}
+        - {x: -3.5, y: -21}
+        - {x: 7.5, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d9067535ae49a4a99d3857bc78ec21
+      internalID: -292117514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstones_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 192
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 15.5, y: -12}
+        - {x: 11.5, y: -6}
+        - {x: 7.5, y: -4}
+        - {x: -13.5, y: -3}
+        - {x: -18.5, y: -9}
+        - {x: -10.5, y: -19}
+        - {x: -0.5, y: -21}
+        - {x: 12.5, y: -17}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122357b0158d46d4398e683999ba11ff
+      internalID: 2071684426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstones_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 192
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 10.5, y: -18}
+        - {x: 19.5, y: -10}
+        - {x: 16.5, y: 11}
+        - {x: 0.5, y: 22}
+        - {x: -5.5, y: 18}
+        - {x: -14.5, y: 13}
+        - {x: -19.5, y: 12}
+        - {x: -18.5, y: -12}
+        - {x: -12.5, y: -18}
+        - {x: -0.5, y: -21}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23c6e014b7b93b4cab8e6a06f630f55
+      internalID: -1668232324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstones_4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 192
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 18.5, y: -12}
+        - {x: 19.5, y: -6}
+        - {x: 15.5, y: 3}
+        - {x: 3.5, y: 11}
+        - {x: -9.5, y: 4}
+        - {x: -14.5, y: -3}
+        - {x: -18.5, y: -12}
+        - {x: -12.5, y: -18}
+        - {x: -3.5, y: -21}
+        - {x: 7.5, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1707ec926d896db40ad17a1cdf3b6833
+      internalID: 1545740542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstones_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 15.5, y: -12}
+        - {x: 11.5, y: -6}
+        - {x: 7.5, y: -4}
+        - {x: -13.5, y: -3}
+        - {x: -18.5, y: -9}
+        - {x: -10.5, y: -19}
+        - {x: -0.5, y: -21}
+        - {x: 12.5, y: -17}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519b119a44018aa469aa2e3d65a64727
+      internalID: 1392450509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstones_6
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 144
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 10.5, y: -18}
+        - {x: 19.5, y: -10}
+        - {x: 16.5, y: 11}
+        - {x: 0.5, y: 22}
+        - {x: -5.5, y: 18}
+        - {x: -14.5, y: 13}
+        - {x: -19.5, y: 12}
+        - {x: -18.5, y: -12}
+        - {x: -12.5, y: -18}
+        - {x: -0.5, y: -21}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f19bd0f7f4ee042a0b8d5479e6aee1
+      internalID: -1918168260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstones_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 144
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 18.5, y: -12}
+        - {x: 19.5, y: -6}
+        - {x: 15.5, y: 3}
+        - {x: 3.5, y: 11}
+        - {x: -9.5, y: 4}
+        - {x: -14.5, y: -3}
+        - {x: -18.5, y: -12}
+        - {x: -12.5, y: -18}
+        - {x: -3.5, y: -21}
+        - {x: 7.5, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a965de7441e5a241b7294b5cbd6edbc
+      internalID: 575388369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstones_8
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 144
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 15.5, y: -12}
+        - {x: 11.5, y: -6}
+        - {x: 7.5, y: -4}
+        - {x: -13.5, y: -3}
+        - {x: -18.5, y: -9}
+        - {x: -10.5, y: -19}
+        - {x: -0.5, y: -21}
+        - {x: 12.5, y: -17}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fe825e533257d4d8ec630a5e145898
+      internalID: 1352325734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstones_9
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 144
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 10.5, y: -18}
+        - {x: 19.5, y: -10}
+        - {x: 16.5, y: 11}
+        - {x: 0.5, y: 22}
+        - {x: -5.5, y: 18}
+        - {x: -14.5, y: 13}
+        - {x: -19.5, y: 12}
+        - {x: -18.5, y: -12}
+        - {x: -12.5, y: -18}
+        - {x: -0.5, y: -21}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1631c7e1b31c6e42abec4c7ae8d3244
+      internalID: 915073077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstones_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 18.5, y: -12}
+        - {x: 19.5, y: -6}
+        - {x: 15.5, y: 3}
+        - {x: 3.5, y: 11}
+        - {x: -9.5, y: 4}
+        - {x: -14.5, y: -3}
+        - {x: -18.5, y: -12}
+        - {x: -12.5, y: -18}
+        - {x: -3.5, y: -21}
+        - {x: 7.5, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17083e53cedcea742bbbb002ad7ffad1
+      internalID: -1996281927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstones_11
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 96
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 15.5, y: -12}
+        - {x: 11.5, y: -6}
+        - {x: 7.5, y: -4}
+        - {x: -13.5, y: -3}
+        - {x: -18.5, y: -9}
+        - {x: -10.5, y: -19}
+        - {x: -0.5, y: -21}
+        - {x: 12.5, y: -17}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed2e0501bae4de499f672a59a572855
+      internalID: -417896419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstones_12
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 96
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 10.5, y: -18}
+        - {x: 19.5, y: -10}
+        - {x: 16.5, y: 11}
+        - {x: 0.5, y: 22}
+        - {x: -5.5, y: 18}
+        - {x: -14.5, y: 13}
+        - {x: -19.5, y: 12}
+        - {x: -18.5, y: -12}
+        - {x: -12.5, y: -18}
+        - {x: -0.5, y: -21}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c49b1ff87b0194ab9fb7bf1e7a76c0
+      internalID: -130914084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstones_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 96
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 18.5, y: -12}
+        - {x: 19.5, y: -6}
+        - {x: 15.5, y: 3}
+        - {x: 3.5, y: 11}
+        - {x: -9.5, y: 4}
+        - {x: -14.5, y: -3}
+        - {x: -18.5, y: -12}
+        - {x: -12.5, y: -18}
+        - {x: -3.5, y: -21}
+        - {x: 7.5, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab626e25ad1b689419ce0ff597606b84
+      internalID: -1181563972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstones_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 96
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 15.5, y: -12}
+        - {x: 11.5, y: -6}
+        - {x: 7.5, y: -4}
+        - {x: -13.5, y: -3}
+        - {x: -18.5, y: -9}
+        - {x: -10.5, y: -19}
+        - {x: -0.5, y: -21}
+        - {x: 12.5, y: -17}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ac224279b467f488f96eef73b69711
+      internalID: -2043285950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstones_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 10.5, y: -18}
+        - {x: 19.5, y: -10}
+        - {x: 16.5, y: 11}
+        - {x: 0.5, y: 22}
+        - {x: -5.5, y: 18}
+        - {x: -14.5, y: 13}
+        - {x: -19.5, y: 12}
+        - {x: -18.5, y: -12}
+        - {x: -12.5, y: -18}
+        - {x: -0.5, y: -21}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f8e5d738a87964fa90bace9912accd
+      internalID: -1136536926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstones_16
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 48
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 18.5, y: -12}
+        - {x: 19.5, y: -6}
+        - {x: 15.5, y: 3}
+        - {x: 3.5, y: 11}
+        - {x: -9.5, y: 4}
+        - {x: -14.5, y: -3}
+        - {x: -18.5, y: -12}
+        - {x: -12.5, y: -18}
+        - {x: -3.5, y: -21}
+        - {x: 7.5, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afeb9b42fef75843b48e9448274f0b7
+      internalID: 1008448422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstones_17
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 48
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 15.5, y: -12}
+        - {x: 11.5, y: -6}
+        - {x: 7.5, y: -4}
+        - {x: -13.5, y: -3}
+        - {x: -18.5, y: -9}
+        - {x: -10.5, y: -19}
+        - {x: -0.5, y: -21}
+        - {x: 12.5, y: -17}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decc3ba13dad3eb4e8e2e55b9218a819
+      internalID: 1614329925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstones_18
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 48
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 10.5, y: -18}
+        - {x: 19.5, y: -10}
+        - {x: 16.5, y: 11}
+        - {x: 0.5, y: 22}
+        - {x: -5.5, y: 18}
+        - {x: -14.5, y: 13}
+        - {x: -19.5, y: 12}
+        - {x: -18.5, y: -12}
+        - {x: -12.5, y: -18}
+        - {x: -0.5, y: -21}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04828e9d0ae831498fe4b5804a39882
+      internalID: 589652740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstones_19
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 48
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 18.5, y: -12}
+        - {x: 19.5, y: -6}
+        - {x: 15.5, y: 3}
+        - {x: 3.5, y: 11}
+        - {x: -9.5, y: 4}
+        - {x: -14.5, y: -3}
+        - {x: -18.5, y: -12}
+        - {x: -12.5, y: -18}
+        - {x: -3.5, y: -21}
+        - {x: 7.5, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29be2059fbd401040a8cc47a541a4143
+      internalID: -1565033736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstones_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 15.5, y: -12}
+        - {x: 11.5, y: -6}
+        - {x: 7.5, y: -4}
+        - {x: -13.5, y: -3}
+        - {x: -18.5, y: -9}
+        - {x: -10.5, y: -19}
+        - {x: -0.5, y: -21}
+        - {x: 12.5, y: -17}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e250589025dbba46b05d5a9a2d759a8
+      internalID: 1267899001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstones_21
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 21.5, y: -17}
+        - {x: 21.5, y: 16}
+        - {x: 10.5, y: 24}
+        - {x: -13.5, y: 24}
+        - {x: -21.5, y: 17}
+        - {x: -21.5, y: -21}
+        - {x: -20.5, y: -23}
+        - {x: 18.5, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ddc18ff0f4aff47ae57ed4749d19c5
+      internalID: 1382211241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstones_22
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 18.5, y: -12}
+        - {x: 19.5, y: -6}
+        - {x: 15.5, y: 3}
+        - {x: 3.5, y: 11}
+        - {x: -9.5, y: 4}
+        - {x: -14.5, y: -3}
+        - {x: -18.5, y: -12}
+        - {x: -12.5, y: -18}
+        - {x: -3.5, y: -21}
+        - {x: 7.5, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a105adb39bafd449fd6bb681af65dd
+      internalID: -1322400179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstones_23
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 15.5, y: -12}
+        - {x: 11.5, y: -6}
+        - {x: 7.5, y: -4}
+        - {x: -13.5, y: -3}
+        - {x: -18.5, y: -9}
+        - {x: -10.5, y: -19}
+        - {x: -0.5, y: -21}
+        - {x: 12.5, y: -17}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ed0b2c8dca21148b6ca6831c496d2e
+      internalID: -450147337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1b33e002cc5b5b9449bab349362914b5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Gemstones_0: -1901351387
+      Gemstones_1: -292117514
+      Gemstones_10: -1996281927
+      Gemstones_11: -417896419
+      Gemstones_12: -130914084
+      Gemstones_13: -1181563972
+      Gemstones_14: -2043285950
+      Gemstones_15: -1136536926
+      Gemstones_16: 1008448422
+      Gemstones_17: 1614329925
+      Gemstones_18: 589652740
+      Gemstones_19: -1565033736
+      Gemstones_2: 2071684426
+      Gemstones_20: 1267899001
+      Gemstones_21: 1382211241
+      Gemstones_22: -1322400179
+      Gemstones_23: -450147337
+      Gemstones_3: -1668232324
+      Gemstones_4: 1545740542
+      Gemstones_5: 1392450509
+      Gemstones_6: -1918168260
+      Gemstones_7: 575388369
+      Gemstones_8: 1352325734
+      Gemstones_9: 915073077
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
